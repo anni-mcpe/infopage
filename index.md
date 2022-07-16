@@ -28,6 +28,19 @@ You can also choose your class (kit), using the book item in your inventory. All
 
 ![img](assets/img/class-selection.png)
 
+## How the chat works?
+![img](assets/img/chat.png)
+
+### Team chat
+When you are member of some team, your messages are sent only to your teammates
+
+![img](assets/img/teamchat.png)
+
+### All chat
+To send message to all the players, add ! before your message
+
+![img](assets/img/allchat.png)
+
 ## How to play?
 
 Annihilation is a team-based PvP game mode with 4 teams, Blue, Red, Yellow and Green. Your team's objective is to destroy the other 3 team's nexuses, while protecting your own. Each team has their own quarter of the map where they can gather resources, build defenses, etc. Your team wins if it is the last one with a nexus.
@@ -48,13 +61,13 @@ In addition to the above, there are several kinds of shops in which players coul
 ## Phases
 
 ### Phase I
-In Phase I it is recommended to gather resources from mines and smelt them in Ender Furnace. You can also try going in the middle of the map to get some iron blocks, whose are located under the middle beacon. You should prepare to fight the first boss and to face players rushing your team's nexus.
+In Phase I, it is recommended to gather resources from mines and smelt them in Ender Furnace. You can also try going in the middle of the map to get some iron blocks, whose are located under the middle beacon. You should prepare to fight the first boss and to face players rushing your team's nexus.
 
 ### Phase II
 In Phase II nexus blocks lose their invincibility, which means your team might be rushed by the others. You should also try to kill boss to get OP items.
 
 ### Phase III
-Diamond ores spawn in the middle. You should try to get diamond armour. Also you should get yourself bunch of golds for next phase to buy items for brewing.
+Diamond ores spawn in the middle. You should try to get diamond armour. Also, you should get yourself bunch of golds for next phase to buy items for brewing.
 
 ### Phase IV
 Brewing shop is now open, so you can buy items to brew potions to rush other teams. Mostly players brew strength, regeneration and fire resistance potions. Others try to rush with invisibility with no items in the inventory.
